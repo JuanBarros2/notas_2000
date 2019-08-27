@@ -1,0 +1,16 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Juan Barros",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "apollo-server": "^2.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
